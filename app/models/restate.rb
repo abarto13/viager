@@ -1,0 +1,2 @@
+class Restate < ApplicationRecord
+end
